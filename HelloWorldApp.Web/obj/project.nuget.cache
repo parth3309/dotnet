@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Fg7g2pT9obODImvftMJfrXIpSZKuz7PCFnyqkSgK6wria1yanzMOz4Xfw/sujn9Am66qVVpHRg0EbMDKOMCDcA==",
+  "dgSpecHash": "cECFLJwlS7qwH8wJzwr/eT/6lJmmpFn03Bd9RNeoV2XTVmoCXJ1FFZnSs1MSUKtV08CHR+xKF91xs8yUDep5CA==",
   "success": true,
-  "projectFilePath": "D:\\hello-world\\HelloWorldApp\\HelloWorldApp.Web\\HelloWorldApp.Web.csproj",
+  "projectFilePath": "D:\\new-clone\\hello-world-app\\HelloWorldApp.Web\\HelloWorldApp.Web.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
