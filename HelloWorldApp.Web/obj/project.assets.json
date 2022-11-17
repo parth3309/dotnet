@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\hello-world\\HelloWorldApp\\HelloWorldApp.Web\\HelloWorldApp.Web.csproj",
+      "projectUniqueName": "D:\\new-clone\\hello-world-app\\HelloWorldApp.Web\\HelloWorldApp.Web.csproj",
       "projectName": "HelloWorldApp.Web",
-      "projectPath": "D:\\hello-world\\HelloWorldApp\\HelloWorldApp.Web\\HelloWorldApp.Web.csproj",
+      "projectPath": "D:\\new-clone\\hello-world-app\\HelloWorldApp.Web\\HelloWorldApp.Web.csproj",
       "packagesPath": "C:\\Users\\parth\\.nuget\\packages\\",
-      "outputPath": "D:\\hello-world\\HelloWorldApp\\HelloWorldApp.Web\\obj\\",
+      "outputPath": "D:\\new-clone\\hello-world-app\\HelloWorldApp.Web\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\parth\\AppData\\Roaming\\NuGet\\NuGet.Config",
